@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="bottom_et" />
+    <item type="id" name="bottom_bt" />
+    <item type="id" name="image_quickbar_item" />
+    <item type="id" name="text_quickbar_item" />
+    <item type="id" name="user_logo" />
+    <item type="id" name="user_vip" />
+    <item type="id" name="remark_detail" />
+    <item type="id" name="user_name" />
+    <item type="id" name="remark_stars" />
+    <item type="id" name="remark_stars_content_full" />
+    <item type="id" name="remark_stars_content_empty" />
+    <item type="id" name="remark_environment" />
+    <item type="id" name="remark_environment_content" />
+    <item type="id" name="remark_service" />
+    <item type="id" name="remark_service_content" />
+    <item type="id" name="remark_permoney" />
+    <item type="id" name="remark_permoney_content" />
+    <item type="id" name="remark_content" />
+    <item type="id" name="remark_qucikbar" />
+    <item type="id" name="remark_pic1" />
+    <item type="id" name="remark_pic2" />
+    <item type="id" name="remark_properties" />
+    <item type="id" name="remark_addtime" />
+    <item type="id" name="remark_addtype" />
+    <item type="id" name="remark_like_content" />
+    <item type="id" name="remark_like_nums" />
+    <item type="id" name="bt_remarklike" />
+    <item type="id" name="remark_add_content" />
+    <item type="id" name="remark_add_logo" />
+    <item type="id" name="add_remark" />
+    <item type="id" name="remark_add_nums" />
+    <item type="id" name="add_remark_detail1" />
+    <item type="id" name="add_remark_content1" />
+    <item type="id" name="add_remark_time1" />
+    <item type="id" name="add_remark_type1" />
+    <item type="id" name="add_remark_detail2" />
+    <item type="id" name="add_remark_content2" />
+    <item type="id" name="add_remark_time2" />
+    <item type="id" name="add_remark_type2" />
+    <item type="id" name="reply_and_share" />
+    <item type="id" name="remark_share" />
+    <item type="id" name="remark_point" />
+    <item type="id" name="remark_reply" />
+    <item type="id" name="reply_detail" />
+    <item type="id" name="reply_detail_share" />
+    <item type="id" name="reply_detail_point" />
+    <item type="id" name="reply_detail_reply" />
+    <item type="id" name="reply_detail_nums" />
+    <item type="id" name="bt_enter_replies" />
+    <item type="id" name="reply_detail_line" />
+    <item type="id" name="reply_detail_content1" />
+    <item type="id" name="reply_detail_from_name1" />
+    <item type="id" name="reply_detail_colon" />
+    <item type="id" name="reply_detail_contents1" />
+    <item type="id" name="reply_add_time1" />
+    <item type="id" name="reply_add_type1" />
+    <item type="id" name="reply_detail_content2" />
+    <item type="id" name="reply_detail_from_name2" />
+    <item type="id" name="reply_detail_colon2" />
+    <item type="id" name="reply_detail_contents2" />
+    <item type="id" name="reply_add_time2" />
+    <item type="id" name="reply_add_type2" />
+    <item type="id" name="layout_remark_pic1" />
+    <item type="id" name="layout_remark_pic2" />
+    <item type="id" name="add_remark_line" />
+    <item type="id" name="list_add_remark" />
+    <item type="id" name="layout_remark_reply_title" />
+    <item type="id" name="bt_back" />
+    <item type="id" name="bt_more" />
+    <item type="id" name="remark_block_in_repies" />
+    <item type="id" name="user_logo_remark_in_repies" />
+    <item type="id" name="vip_remark_in_repies" />
+    <item type="id" name="user_name_remark_in_repies" />
+    <item type="id" name="user_stars_remark_in_repies" />
+    <item type="id" name="user_stars_empty_remark_in_repies" />
+    <item type="id" name="user_stars_full_remark_in_repies" />
+    <item type="id" name="user_environment_remark_in_repies" />
+    <item type="id" name="user_environment_content_remark_in_repies" />
+    <item type="id" name="user_service_remark_in_repies" />
+    <item type="id" name="user_service_content_remark_in_repies" />
+    <item type="id" name="user_perfee_remark_in_repies" />
+    <item type="id" name="user_perfee_content_remark_in_repies" />
+    <item type="id" name="user_remark_content_remark_in_repies" />
+    <item type="id" name="addtime_remark_in_repies" />
+    <item type="id" name="addtype_remark_in_repies" />
+    <item type="id" name="layout_replynums_inreplies" />
+    <item type="id" name="image_replynums_inreplies" />
+    <item type="id" name="nums_replynums_inreplies" />
+    <item type="id" name="divider_inreplies" />
+    <item type="id" name="list_inreplies" />
+    <item type="id" name="text_replycontent_multi" />
+    <item type="id" name="text_replycontent_singleline" />
+    <item type="id" name="userlogo_replylist" />
+    <item type="id" name="username_replylist" />
+    <item type="id" name="colon_replylist" />
+    <item type="id" name="content_replylist" />
+    <item type="id" name="addreply_replylist" />
+    <item type="id" name="uservip_replylist" />
+    <item type="id" name="addtime_replylist" />
+    <item type="id" name="addtype_replylist" />
+    <item type="id" name="text_addremarkitem_username" />
+    <item type="id" name="text_addremarkitem_content" />
+    <item type="id" name="text_addremarkitem_time" />
+    <item type="id" name="text_addremarkitem_source" />
+    <item type="id" name="layout_remark_title" />
+    <item type="id" name="btn_remark_back" />
+    <item type="id" name="btn_remark_more" />
+    <item type="id" name="remark_list_dialog_container" />
+    <item type="id" name="shopremark_dialog_container" />
+    <item type="id" name="text_storearea">false</item>
+    <item type="id" name="button_state">false</item>
+    <item type="id" name="text_area">false</item>
+    <item type="id" name="text_city">false</item>
+    <item type="id" name="item_my_discountlist_bg">false</item>
+    <item type="id" name="text_shopname">false</item>
+    <item type="id" name="text_desciption">false</item>
+    <item type="id" name="text_overdate">false</item>
+    <item type="id" name="discount_code">false</item>
+    <item type="id" name="button_remark">false</item>
+    <item type="id" name="id_framelayout_timeout">false</item>
+    <item type="id" name="id_textview_my_discount_timeout">false</item>
+    <item type="id" name="text_content">false</item>
+    <item type="id" name="msg_del">false</item>
+    <item type="id" name="msg_read">false</item>
+    <item type="id" name="text_date">false</item>
+    <item type="id" name="msg_rough_content">false</item>
+    <item type="id" name="text_star_word">false</item>
+    <item type="id" name="text_star_full">false</item>
+    <item type="id" name="text_star_empty">false</item>
+    <item type="id" name="text_envire_word">false</item>
+    <item type="id" name="text_envire">false</item>
+    <item type="id" name="text_service_word">false</item>
+    <item type="id" name="text_service">false</item>
+    <item type="id" name="text_price_word">false</item>
+    <item type="id" name="text_price">false</item>
+    <item type="id" name="text_distance">false</item>
+    <item type="id" name="item_shop_discountlist_bg">false</item>
+    <item type="id" name="button_down">false</item>
+    <item type="id" name="text_shoptag">false</item>
+    <item type="id" name="image_discount">false</item>
+    <item type="id" name="text_shopdiscount">false</item>
+    <item type="id" name="text_shopaddress">false</item>
+    <item type="id" name="text_shopdistance">false</item>
+    <item type="id" name="image_shop">false</item>
+    <item type="id" name="shop_del_bt">false</item>
+    <item type="id" name="item_userinput">false</item>
+    <item type="id" name="layout_title">false</item>
+    <item type="id" name="layout_more">false</item>
+    <item type="id" name="layout_login">false</item>
+    <item type="id" name="text_version">false</item>
+    <item type="id" name="line1">false</item>
+    <item type="id" name="layout_phone">false</item>
+    <item type="id" name="text_phone">false</item>
+    <item type="id" name="image_phone">false</item>
+    <item type="id" name="line2">false</item>
+    <item type="id" name="layout_web">false</item>
+    <item type="id" name="text_web">false</item>
+    <item type="id" name="layout_account_title">false</item>
+    <item type="id" name="account_phone">false</item>
+    <item type="id" name="phone_account_img">false</item>
+    <item type="id" name="phone_account_name">false</item>
+    <item type="id" name="phone_account_line">false</item>
+    <item type="id" name="account_phone_text">false</item>
+    <item type="id" name="btn_phone_account">false</item>
+    <item type="id" name="account_sina_weibo">false</item>
+    <item type="id" name="phone_sina_weibo_img">false</item>
+    <item type="id" name="phone_sina_weibo_name">false</item>
+    <item type="id" name="phone_sina_weibo_line">false</item>
+    <item type="id" name="account_sina_weibo_text">false</item>
+    <item type="id" name="btn_sina_weibo_account">false</item>
+    <item type="id" name="account_qq_weibo">false</item>
+    <item type="id" name="account_qq_img">false</item>
+    <item type="id" name="account_qq_weibo_name">false</item>
+    <item type="id" name="account_qq_weibo_line">false</item>
+    <item type="id" name="account_qq_weibo_text">false</item>
+    <item type="id" name="btn_qq_weibo_account">false</item>
+    <item type="id" name="list_search">false</item>
+    <item type="id" name="popup_view">false</item>
+    <item type="id" name="text_bind_tip">false</item>
+    <item type="id" name="layout_input">false</item>
+    <item type="id" name="layout_config">false</item>
+    <item type="id" name="text_mobile">false</item>
+    <item type="id" name="edit_mobile">false</item>
+    <item type="id" name="img_line1">false</item>
+    <item type="id" name="layout_new">false</item>
+    <item type="id" name="text_code">false</item>
+    <item type="id" name="edit_code">false</item>
+    <item type="id" name="layout_city">false</item>
+    <item type="id" name="img_line2">false</item>
+    <item type="id" name="city_code">false</item>
+    <item type="id" name="button_bind">false</item>
+    <item type="id" name="text_info">false</item>
+    <item type="id" name="layout_bottom_input">false</item>
+    <item type="id" name="text_title">false</item>
+    <item type="id" name="layout_location">false</item>
+    <item type="id" name="text_city_location">false</item>
+    <item type="id" name="button_refresh">false</item>
+    <item type="id" name="list_city">false</item>
+    <item type="id" name="update_title">false</item>
+    <item type="id" name="bt_dialog_remind_sure">false</item>
+    <item type="id" name="mydiscount_dialog">false</item>
+    <item type="id" name="download_word">false</item>
+    <item type="id" name="download_percent_num">false</item>
+    <item type="id" name="download_percent">false</item>
+    <item type="id" name="id_layout_index">false</item>
+    <item type="id" name="button_changecity">false</item>
+    <item type="id" name="layout_search">false</item>
+    <item type="id" name="edit_search">false</item>
+    <item type="id" name="id_index_scrollview">false</item>
+    <item type="id" name="image_activity">false</item>
+    <item type="id" name="advert_img_wait">false</item>
+    <item type="id" name="adver_gallery">false</item>
+    <item type="id" name="advert_points">false</item>
+    <item type="id" name="layout_type">false</item>
+    <item type="id" name="layout_food">false</item>
+    <item type="id" name="img_food">false</item>
+    <item type="id" name="layout_play">false</item>
+    <item type="id" name="img_play">false</item>
+    <item type="id" name="layout_shop">false</item>
+    <item type="id" name="img_shop">false</item>
+    <item type="id" name="layout_hotel">false</item>
+    <item type="id" name="img_line3">false</item>
+    <item type="id" name="img_hotel">false</item>
+    <item type="id" name="layout_photo">false</item>
+    <item type="id" name="img_line4">false</item>
+    <item type="id" name="img_photo">false</item>
+    <item type="id" name="img_line5">false</item>
+    <item type="id" name="webView">false</item>
+    <item type="id" name="id_layout_more">false</item>
+    <item type="id" name="layout_account">false</item>
+    <item type="id" name="img_new">false</item>
+    <item type="id" name="img_line0">false</item>
+    <item type="id" name="img_config">false</item>
+    <item type="id" name="textview_more_version">false</item>
+    <item type="id" name="new_version_image">false</item>
+    <item type="id" name="image_more_ic_right">false</item>
+    <item type="id" name="version_name">false</item>
+    <item type="id" name="layout_more_block2">false</item>
+    <item type="id" name="img_login">false</item>
+    <item type="id" name="layout_point">false</item>
+    <item type="id" name="img_point">false</item>
+    <item type="id" name="layout_about">false</item>
+    <item type="id" name="img_about">false</item>
+    <item type="id" name="layout_main_my">false</item>
+    <item type="id" name="layout_myinfo">false</item>
+    <item type="id" name="bg_logo">false</item>
+    <item type="id" name="my_name">false</item>
+    <item type="id" name="img_my_vip">false</item>
+    <item type="id" name="text_account">false</item>
+    <item type="id" name="text_point">false</item>
+    <item type="id" name="bt_sign_in">false</item>
+    <item type="id" name="layout_discount">false</item>
+    <item type="id" name="img_discount">false</item>
+    <item type="id" name="layout_focuse">false</item>
+    <item type="id" name="img_focuse">false</item>
+    <item type="id" name="layout_history">false</item>
+    <item type="id" name="img_history">false</item>
+    <item type="id" name="layout_remark">false</item>
+    <item type="id" name="img_remark">false</item>
+    <item type="id" name="layout_message">false</item>
+    <item type="id" name="img_message">false</item>
+    <item type="id" name="mymsg">false</item>
+    <item type="id" name="my_msg_unread_num">false</item>
+    <item type="id" name="img_title">false</item>
+    <item type="id" name="button_map">false</item>
+    <item type="id" name="button_phone">false</item>
+    <item type="id" name="shop_code">false</item>
+    <item type="id" name="shop_text">false</item>
+    <item type="id" name="text_discountname">false</item>
+    <item type="id" name="text_endtime">false</item>
+    <item type="id" name="text_address">false</item>
+    <item type="id" name="layout_mydiscount_main">false</item>
+    <item type="id" name="layout_mydiscount_title">false</item>
+    <item type="id" name="id_title01_discount">false</item>
+    <item type="id" name="id_title02_discount">false</item>
+    <item type="id" name="my_discount_title">false</item>
+    <item type="id" name="id_mark_discount">false</item>
+    <item type="id" name="my_discount_scoller">false</item>
+    <item type="id" name="text_phone_text">false</item>
+    <item type="id" name="bt_discount_share">false</item>
+    <item type="id" name="bt_discount_phone">false</item>
+    <item type="id" name="bt_discount_location">false</item>
+    <item type="id" name="layout_mydiscountlist_title">false</item>
+    <item type="id" name="text_discountlist_backhome">false</item>
+    <item type="id" name="dialog_container_my_discount">false</item>
+    <item type="id" name="list_discount">false</item>
+    <item type="id" name="my_attention_shop_edit">false</item>
+    <item type="id" name="dialog_container_my_focus_shop">false</item>
+    <item type="id" name="list_shop">false</item>
+    <item type="id" name="my_msg_layout">false</item>
+    <item type="id" name="my_msg_edit">false</item>
+    <item type="id" name="dialog_container_my_message">false</item>
+    <item type="id" name="pop_edit_msg">false</item>
+    <item type="id" name="edit_msg_selectall">false</item>
+    <item type="id" name="edit_msg_delete">false</item>
+    <item type="id" name="layout_my_msg_detail_title">false</item>
+    <item type="id" name="mymsg_text_title">false</item>
+    <item type="id" name="layout_my_msg_detail_content">false</item>
+    <item type="id" name="layout_my_msg_detail_content_title">false</item>
+    <item type="id" name="layout_my_msg_detail_content_date">false</item>
+    <item type="id" name="layout_my_msg_detail_content_content">false</item>
+    <item type="id" name="layout_my_msg_detail_href">false</item>
+    <item type="id" name="layout_my_msg_detail_pic_notify">false</item>
+    <item type="id" name="layout_my_msg_detail_pic">false</item>
+    <item type="id" name="my_msg_img">false</item>
+    <item type="id" name="my_msg_linearlayout">false</item>
+    <item type="id" name="my_msg_bg">false</item>
+    <item type="id" name="my_msg_num">false</item>
+    <item type="id" name="dialog_container_my_remark">false</item>
+    <item type="id" name="dialog_container_my_view_shop">false</item>
+    <item type="id" name="text_location">false</item>
+    <item type="id" name="pro_bar_loc">false</item>
+    <item type="id" name="ic_loc">false</item>
+    <item type="id" name="btn_refresh">false</item>
+    <item type="id" name="img_search">false</item>
+    <item type="id" name="btn_search">false</item>
+    <item type="id" name="layout_main">false</item>
+    <item type="id" name="text_pointinfo">false</item>
+    <item type="id" name="layout_point_intro">false</item>
+    <item type="id" name="city">false</item>
+    <item type="id" name="city_area">false</item>
+    <item type="id" name="progress_layout">false</item>
+    <item type="id" name="pro_bar">false</item>
+    <item type="id" name="pro_info">false</item>
+    <item type="id" name="layout_push_title">false</item>
+    <item type="id" name="push_text_title">false</item>
+    <item type="id" name="push_text_content">false</item>
+    <item type="id" name="push_button">false</item>
+    <item type="id" name="quick_bar_main">false</item>
+    <item type="id" name="reply_item">false</item>
+    <item type="id" name="like_item">false</item>
+    <item type="id" name="addremark_item">false</item>
+    <item type="id" name="share_item">false</item>
+    <item type="id" name="layout_star">false</item>
+    <item type="id" name="text_star">false</item>
+    <item type="id" name="rating_star">false</item>
+    <item type="id" name="layout_sorce">false</item>
+    <item type="id" name="layout_envire">false</item>
+    <item type="id" name="text_envire_info">false</item>
+    <item type="id" name="ic_right1">false</item>
+    <item type="id" name="layout_service">false</item>
+    <item type="id" name="text_service_info">false</item>
+    <item type="id" name="ic_right2">false</item>
+    <item type="id" name="layout_price">false</item>
+    <item type="id" name="text_price_info">false</item>
+    <item type="id" name="layout_content">false</item>
+    <item type="id" name="button_camera">false</item>
+    <item type="id" name="image_camera">false</item>
+    <item type="id" name="edit_content">false</item>
+    <item type="id" name="layout_sina">false</item>
+    <item type="id" name="image_sina">false</item>
+    <item type="id" name="text_sina">false</item>
+    <item type="id" name="checkbox_sina">false</item>
+    <item type="id" name="layout_qq">false</item>
+    <item type="id" name="image_qq">false</item>
+    <item type="id" name="text_qq">false</item>
+    <item type="id" name="checkbox_qq">false</item>
+    <item type="id" name="button_submit">false</item>
+    <item type="id" name="id_paper">false</item>
+    <item type="id" name="layout_title_blacktitle">false</item>
+    <item type="id" name="id_bt_imageactivity_back">false</item>
+    <item type="id" name="id_bt_imageactivity_more">false</item>
+    <item type="id" name="id_text_imageactivity_titletext">false</item>
+    <item type="id" name="id_text_imageactivity_imagenums">false</item>
+    <item type="id" name="gv_tabPage">false</item>
+    <item type="id" name="pageContainer">false</item>
+    <item type="id" name="pw_edit_search">false</item>
+    <item type="id" name="pw_img_search">false</item>
+    <item type="id" name="pw_btn_sure">false</item>
+    <item type="id" name="user_input_record">false</item>
+    <item type="id" name="clear_user_record">false</item>
+    <item type="id" name="shopdetail_main">false</item>
+    <item type="id" name="button_focus">false</item>
+    <item type="id" name="layout_shopinfo">false</item>
+    <item type="id" name="layout_addphone">false</item>
+    <item type="id" name="layout_address">false</item>
+    <item type="id" name="image_address_right">false</item>
+    <item type="id" name="image_address">false</item>
+    <item type="id" name="img_phone">false</item>
+    <item type="id" name="image_phone_right">false</item>
+    <item type="id" name="button_share">false</item>
+    <item type="id" name="button_contact">false</item>
+    <item type="id" name="layout_shopintro">false</item>
+    <item type="id" name="text_intro_title">false</item>
+    <item type="id" name="text_intro_content">false</item>
+    <item type="id" name="text_intro_time">false</item>
+    <item type="id" name="layout_shopother">false</item>
+    <item type="id" name="noteText">false</item>
+    <item type="id" name="parkLayout">false</item>
+    <item type="id" name="park">false</item>
+    <item type="id" name="boxLayout">false</item>
+    <item type="id" name="box">false</item>
+    <item type="id" name="bstcardLayout">false</item>
+    <item type="id" name="bstcard">false</item>
+    <item type="id" name="image_remark_right">false</item>
+    <item type="id" name="text_remark_title">false</item>
+    <item type="id" name="remark_num">false</item>
+    <item type="id" name="text_remark_star_word">false</item>
+    <item type="id" name="text_remark_star_full">false</item>
+    <item type="id" name="text_remark_star_empty">false</item>
+    <item type="id" name="text_remark_envire_word">false</item>
+    <item type="id" name="text_remark_envire">false</item>
+    <item type="id" name="text_remark_service_word">false</item>
+    <item type="id" name="text_remark_service">false</item>
+    <item type="id" name="text_remark_price_word">false</item>
+    <item type="id" name="text_remark_price">false</item>
+    <item type="id" name="text_remark_content">false</item>
+    <item type="id" name="text_remark_date">false</item>
+    <item type="id" name="remark_author_logo_shopdetail">false</item>
+    <item type="id" name="remark_author_vip_shopdetail">false</item>
+    <item type="id" name="remark_auther_name">false</item>
+    <item type="id" name="layout_remark_pic_shopdetail1">false</item>
+    <item type="id" name="remark_pic1_shopdetail">false</item>
+    <item type="id" name="layout_remark_pic_shopdetail2">false</item>
+    <item type="id" name="remark_pic2_shopdetail">false</item>
+    <item type="id" name="text_remark_date_shopdetail">false</item>
+    <item type="id" name="remark_addtype_shopdetail">false</item>
+    <item type="id" name="remark_like_content_shopdetail">false</item>
+    <item type="id" name="remark_like_nums_shopdetail">false</item>
+    <item type="id" name="bt_remarklike_shopdetail">false</item>
+    <item type="id" name="button_area">false</item>
+    <item type="id" name="button_sort">false</item>
+    <item type="id" name="button_discount">false</item>
+    <item type="id" name="image_line">false</item>
+    <item type="id" name="list_area">false</item>
+    <item type="id" name="dialog_container_shoplist_key">false</item>
+    <item type="id" name="button_sort_nearby_key">false</item>
+    <item type="id" name="button_distance_nearby_key">false</item>
+    <item type="id" name="button_discount_nearby_key">false</item>
+    <item type="id" name="dialog_container_shoplist_nearbykey">false</item>
+    <item type="id" name="button_sort_nearbytype">false</item>
+    <item type="id" name="button_distance_nearbytype">false</item>
+    <item type="id" name="button_discount_nearbytype">false</item>
+    <item type="id" name="dialog_container_nearby">false</item>
+    <item type="id" name="button_type_area">false</item>
+    <item type="id" name="button_type_sort">false</item>
+    <item type="id" name="button_type_discount">false</item>
+    <item type="id" name="dialog_container">false</item>
+    <item type="id" name="t_pull_msg_content">false</item>
+    <item type="id" name="update_content">false</item>
+    <item type="id" name="update_text">false</item>
+    <item type="id" name="textView3">false</item>
+    <item type="id" name="bt_updatedialog_sure">false</item>
+    <item type="id" name="bt_updatedialog_cancel">false</item>
+    <item type="id" name="layoutswitcher">false</item>
+    <item type="id" name="welcome1">false</item>
+    <item type="id" name="welcome2">false</item>
+    <item type="id" name="welcome3">false</item>
+    <item type="id" name="list_loading_linearlayout">false</item>
+    <item type="id" name="loading_dialog">false</item>
+    <item type="id" name="loading_text">false</item>
+    <item type="id" name="tv">false</item>
+    <item type="id" name="button1">false</item>
+    <item type="id" name="bmapView">false</item>
+    <item type="id" name="map_shopname">false</item>
+    <item type="id" name="autoTextView">false</item>
+    <item type="id" name="msgEditText">false</item>
+    <item type="id" name="send_message_button">false</item>
+    <item type="id" name="cancel_send_message_button">false</item>
+    <item type="id" name="rlTitle">false</item>
+    <item type="id" name="btnClose">false</item>
+    <item type="id" name="btnSend">false</item>
+    <item type="id" name="llImage">false</item>
+    <item type="id" name="rlTotal">false</item>
+    <item type="id" name="ll_text_limit_unit">false</item>
+    <item type="id" name="tv_text_limit">false</item>
+    <item type="id" name="flPic">false</item>
+    <item type="id" name="ivImage">false</item>
+    <item type="id" name="ivDelPic">false</item>
+    <item type="id" name="etEdit">false</item>
+    <item type="id" name="layout_dropdown">false</item>
+    <item type="id" name="id_drapdown_image">false</item>
+    <item type="id" name="id_dropdown_textview">false</item>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/phonetitlebar_bg" >
+
+    <RelativeLayout android:id="@id/layout_title" android:background="@drawable/bg_title" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true">
+        <TextView android:id="@+id/title_text" android:text="首页" android:textSize="24.0sp" android:textColor="@color/color_white" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerInParent="true" />
+    </RelativeLayout>
+    
+
+</FrameLayout>

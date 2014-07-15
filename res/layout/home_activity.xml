@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="#FFFFFFFF">
+    <LinearLayout
+        android:focusable="true" android:focusableInTouchMode="true"
+        android:layout_width="0px" android:layout_height="0px"/>
+    <RelativeLayout android:background="@drawable/title_bar_frontpage" android:layout_width="fill_parent" android:layout_height="wrap_content">
+		<RelativeLayout android:id="@id/layout_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_centerHorizontal="true">
+	        <TextView android:id="@id/text_title" android:textSize="24.0sp" android:textColor="@color/color_white" android:gravity="center" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="瑞安折扣" android:layout_centerInParent="true" />
+	    </RelativeLayout>
+	    <EditText android:textSize="16.0sp" android:textColor="@color/color_blackgray" android:id="@+id/input_frame" android:background="@drawable/input_frame" android:paddingLeft="40.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/marginSmall" android:layout_marginTop="16.0dip" android:layout_marginRight="@dimen/marginSmall" android:hint="请输入商家名称或地址" android:layout_below="@id/layout_title" />
+        <ImageView android:background="@drawable/icon_search" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="@dimen/marginSmall" android:layout_marginTop="@dimen/marginSmall" android:scaleType="fitXY" android:layout_below="@id/layout_title" android:layout_alignLeft="@id/input_frame" android:layout_alignTop="@id/input_frame" android:contentDescription="@string/app_name" />
+	</RelativeLayout>
+    <FrameLayout
+        xmlns:app="http://schemas.android.com/apk/res/com.dream.coupon"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+
+        <com.dream.coupon.home.ImageGallery
+            android:id="@+id/rarb_home_gallery"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:spacing="5dip" />
+
+        <LinearLayout
+            android:id="@+id/rarb_linearLayout1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:background="#20000000"
+            android:orientation="vertical" >
+
+ 			<com.dream.coupon.widget.FlowIndicator
+            android:id="@+id/rarb_myView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="1dip"
+            app:count="4"
+            android:gravity="center"
+            app:point_normal_color="#ffffff"
+            app:point_radius="3dip"
+            app:point_seleted_color="#e88125"
+            app:point_size="5dip"
+            app:space="10dip" />
+        </LinearLayout>
+    </FrameLayout>
+
+    <LinearLayout android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="26.0dip">
+        <GridView android:layout_gravity="center_vertical" android:id="@+id/categoryGrid" android:visibility="visible" android:scrollbars="none" android:layout_width="fill_parent" android:layout_height="wrap_content" android:listSelector="@android:color/transparent" android:cacheColorHint="@android:color/transparent" android:verticalSpacing="@dimen/marginMiddle" android:numColumns="3" />
+    </LinearLayout>
+        
+    <ListView
+        android:id="@+id/lvCategory"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

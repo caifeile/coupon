@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<dimen name="bottom_tab_padding_drawable">2.0dip</dimen>
+	<dimen name="bottom_tab_padding_up">5.0dip</dimen>
+	<dimen name="bottom_tab_font_size">10.0dip</dimen>
+	<dimen name="dialog_left_margin">10.0dip</dimen>
+    <dimen name="dialog_top_margin">30.0dip</dimen>
+    <dimen name="dialog_right_margin">10.0dip</dimen>
+    <dimen name="dialog_bottom_margin">10.0dip</dimen>
+    <dimen name="dialog_btn_close_right_margin">10.0dip</dimen>
+    <dimen name="dialog_btn_close_top_margin">10.0dip</dimen>
+    <dimen name="dialog_title_logo_left_margin">5.0dip</dimen>
+    <dimen name="dialog_title_height">30.0dip</dimen>
+    <dimen name="padding_small">4.0dip</dimen>
+    <dimen name="padding_medium">8.0dip</dimen>
+    <dimen name="padding_large">16.0dip</dimen>
+    <dimen name="title_textsize">24.0sp</dimen>
+    <dimen name="remark_username_textsize">16.0sp</dimen>
+    <dimen name="default_textsize">15.0sp</dimen>
+    <dimen name="remark_content_textsize">14.0sp</dimen>
+    <dimen name="remark_detail_textsize">12.0sp</dimen>
+    <dimen name="marginMiddle">20.0dip</dimen>
+    <dimen name="marginSmall">5.0dip</dimen>
+    <dimen name="marginLarge">15.0dip</dimen>
+    <dimen name="thumb_width">75.0dip</dimen>
+    <dimen name="thumb_height">75.0dip</dimen>
+    <dimen name="thumb_bgwidth">82.0dip</dimen>
+</resources>
